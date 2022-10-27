@@ -1,3 +1,3 @@
 # Bio Project
 
-![BIO!](drawable/bio.jpg)
+![BIO!](./app/src/main/res/drawable/bio.jpg)
