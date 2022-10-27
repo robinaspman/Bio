@@ -1,3 +1,3 @@
 # Bio Project
 
-![BIO](bio.jpg)
+![BIO!](drawable/bio.jpg)
