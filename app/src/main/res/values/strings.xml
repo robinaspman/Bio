@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Bio</string>
+    <string name="name">Robin Aspman</string>
+    <string name="my_bio">Lorem ipsum dolor sit amet,\n\nconsectetur adipiscing elit. Morbi ornare metus sed fermentum fringilla.
+        Integer facilisis lobortis laoreet. <u><i>Maecenas et hendrerit ante.</i></u> Phasellus faucibus mi sagittis, aliquet nisl non,
+        cursus lectus. Ut iaculis sed diam vitae mollis. Morbi dignissim tortor nec dolor hendrerit pulvinar. Quisque ac mi ex. Fusce
+        convallis arcu ac lacus elementum hendrerit. Proin ac dictum purus. In turpis justo, eleifend vel scelerisque sit amet, porttitor vitae enim.
+        In hac habitasse platea dictumst. In arcu tellus, ultricies eu hendrerit at, sollicitudin at metus. Nullam gravida risus imperdiet, sollicitudin eros sed,
+        dignissim massa. Duis condimentum orci eu tellus aliquet, vitae porta tellus ornare. </string>
+    <string name="hobby_hint_text">Enter your hobbies</string>
+    <string name="done_text">Done</string>
+    <string name="image_description">Android robot image</string>
+    <string name="auto_fill_hints">Enter your hobbies</string>
+</resources>
